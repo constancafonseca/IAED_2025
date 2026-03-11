@@ -1,2 +1,2 @@
 # IAED_2025
-Introduction to Algorithms and Data Structures @ IST
+Repository with project developed in class Introduction to Algorithms and Data Structures @ IST in 2025
